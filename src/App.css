@@ -1,0 +1,393 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body h4 {
+  padding: 30px;
+  text-align: center;
+}
+body .submit {
+  margin-bottom: 40px;
+}
+
+.appbar .heading {
+  line-height: 1.9;
+  font-size: 1.8rem;
+}
+
+.appbar img {
+  max-width: 190px;
+  margin-right: 10px;
+  margin-left: auto;
+}
+
+body .personal-form {
+  padding-top: 30px !important;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+.userInstructions {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 0px 40px 40px 40px;
+}
+
+.epr-form .settings {
+  text-align: center;
+  padding: 40px;
+}
+
+.personal-form .form-input {
+  margin-bottom: 20px;
+}
+
+.userInstructions .btn {
+  margin: 30px 10px 0px 0px;
+  border-color: #379fb4;
+  background-color: #379fb4;
+  color: #fff;
+}
+.userInstructions.btn:hover {
+  margin: 30px 10px 0px 0px;
+  border-color: #2d2d2d;
+  background: #2d2d2d;
+}
+.personal-form .btn {
+  margin: 22px 10px 50px 0px;
+  border-color: #379fb4;
+  background-color: #379fb4;
+  color: #fff;
+}
+.personal-form .btn:hover {
+  margin: 22px 10px 50px 0px;
+  border-color: #2d2d2d;
+  background: #2d2d2d;
+}
+.personal-form .dialog-input {
+  padding: 10px;
+}
+
+.personal-form h6,
+p,
+h2,
+h3,
+h4,
+h5 {
+  text-align: left;
+}
+.userInstructions h6,
+p,
+h2,
+h3,
+h4,
+h5 {
+  text-align: left;
+  margin-bottom: 30px;
+}
+.userInstructions ul {
+  padding: 0px;
+}
+.userInstructions h4 {
+  text-align: left;
+  padding: 0px;
+}
+
+.form-margin {
+  text-align: left;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.ovarianCancer {
+}
+.submit {
+  max-width: 800px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+
+.success-page h5 {
+  text-align: center;
+  margin-top: 200px;
+}
+
+.btn {
+  text-align: center;
+}
+.family-table {
+  margin: 50px 50px;
+}
+
+.family-table .btn {
+  margin: 30px 10px 0px 0px;
+  border-color: #379fb4;
+  background-color: #379fb4;
+  color: #fff;
+}
+
+.family-table .btn:hover {
+  margin: 30px 10px 0px 0px;
+  border-color: #2d2d2d;
+  background: #2d2d2d;
+}
+
+.family-table .table-buttons {
+  max-width: 1080px;
+  margin: 50px auto;
+}
+
+.color-black {
+  color: #000;
+}
+
+.probandTable {
+  margin-top: 30px;
+}
+
+.epr-form {
+  max-width: 1480px;
+  margin: 0 auto;
+}
+.epr-form .form-heading {
+  margin: 50px 0px;
+}
+
+.epr-form .form-input {
+  margin-top: 30px;
+}
+
+.epr-form button:hover {
+  background: transparent;
+}
+
+.epr-form .heading-icon {
+  margin-left: 15px;
+}
+
+.epr-form h3 {
+  text-align: center;
+}
+.epr-form h4 {
+  text-align: left;
+}
+
+.epr-form .flex-icon {
+  display: flex;
+  justify-content: space-between;
+}
+
+.epr-form .flex-icon svg {
+  align-self: center;
+}
+
+.epr-form .form-label {
+  font-size: 24px;
+  margin-top: 20px;
+  padding: 15px 15px 15px 0px;
+}
+.epr-form .btn {
+  margin: 22px 10px 50px 0px;
+  border-color: #379fb4;
+  background-color: #379fb4;
+  color: #fff;
+}
+.epr-form .btn:hover {
+  margin: 22px 10px 50px 0px;
+  border-color: #2d2d2d;
+  background: #2d2d2d;
+}
+
+.family-table .btn {
+  margin: 22px 10px 50px 0px;
+  border-color: #379fb4;
+  background-color: #379fb4;
+  color: #fff;
+}
+
+.family-table .btn:hover {
+  margin: 22px 10px 50px 0px;
+  border-color: #2d2d2d;
+  background: #2d2d2d;
+}
+
+.personal-form img {
+  max-width: 75%;
+  padding: calc(100vh - 90vh);
+}
+
+.personal-form .radio-heading {
+  text-align: left;
+  padding: 12px;
+}
+.personal-form .radio-label {
+  font-size: 28px;
+  padding: 15px 15px 15px 0px;
+  color: #000;
+}
+.personal-form .mongo-button {
+  padding: 12px;
+}
+
+.personal-form .mongoContainer {
+  margin-bottom: 5rem;
+}
+.personal-form .login-fields {
+  padding: 0px;
+  margin: 12px;
+}
+.personal-form .login-field {
+  width: 100%;
+  max-width: 100%;
+}
+
+.epr-form .user-card {
+  background-color: #fff;
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 4px rgb(0 0 0 / 15%);
+  border-radius: 2px;
+  padding: 2rem;
+}
+.user-card {
+  background-color: #fff;
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 4px rgb(0 0 0 / 15%);
+  border-radius: 2px;
+  padding: 2rem;
+}
+.user-card:hover {
+  box-shadow: 0 4px 5px rgb(0 0 0 / 40%);
+}
+
+.epr-form .user-card:hover {
+  box-shadow: 0 4px 5px rgb(0 0 0 / 40%);
+}
+
+.userInstructions .btn {
+  margin: 22px 10px 50px 0px;
+  border-color: #379fb4;
+  background-color: #379fb4;
+  color: #fff;
+}
+
+.userInstructions .btn:hover {
+  border-color: #2d2d2d !important;
+  background: #2d2d2d !important;
+}
+.success-page {
+  max-width: 1400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.success-page .btn {
+  margin: 22px 10px 50px 0px;
+  border-color: #379fb4;
+  background-color: #379fb4;
+  color: #fff;
+}
+
+.success-page .btn:hover {
+  border-color: #2d2d2d !important;
+  background: #2d2d2d !important;
+}
+
+.submit .btn {
+  margin: 22px 10px 50px 0px;
+  border-color: #379fb4;
+  background-color: #379fb4;
+  color: #fff;
+}
+
+.submit .btn:hover {
+  margin: 22px 10px 50px 0px;
+  border-color: #2d2d2d;
+  background: #2d2d2d;
+}
+
+.version-text {
+  font-size: 0.8rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.00938em;
+}
+
+.pagination {
+  padding-top: 40px;
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-size: 1rem;
+}
+
+.pagination .list-items {
+  padding: 0px;
+  list-style-type: none;
+  display: flex;
+}
+
+.pagination .list-item {
+  margin-right: 3rem;
+  padding: 5px;
+}
+
+.pagination:last-child {
+  margin-right: 0rem;
+}
+
+/* media queries */
+
+@media only screen and (max-width: 600px) {
+  .personal-form .login-field {
+    width: 75%;
+    max-width: 100%;
+  }
+  .personal-form img {
+    max-width: 60%;
+    padding: calc(100vh - 95vh);
+  }
+  body .personal-form {
+    padding-top: 50px !important;
+  }
+
+  body .appbar .heading {
+    font-size: 18px;
+    line-height: normal;
+  }
+
+  .appbar img {
+    max-width: 100px;
+    margin-right: 2px;
+  }
+
+  body .userInstructions {
+    margin-top: 0px;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 15px;
+    font-size: 24px;
+  }
+  .userInstructions .btn {
+    font-size: 0.7rem;
+  }
+  .personal-form .btn {
+    font-size: 0.7rem;
+  }
+  .epr-form .btn {
+    font-size: 0.7rem;
+  }
+  .epr-form h2 {
+    font-size: 32px;
+  }
+  .userInstructions {
+    padding: 25px 15px 40px 15px;
+  }
+}
+
+.btn:disabled {
+  background-color: #2baabf;
+}
